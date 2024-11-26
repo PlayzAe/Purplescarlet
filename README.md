@@ -48,7 +48,7 @@ Simply open the `index.html` file in your preferred browser to view the website.
 
 
 ### 🏪 **Homepage**  
-(https://github.com/user-attachments/assets/a057d0e7-ea5c-4d91-95c3-fbcac71a2f41)
+![project2](https://github.com/user-attachments/assets/a057d0e7-ea5c-4d91-95c3-fbcac71a2f41)
 
 ---
 
