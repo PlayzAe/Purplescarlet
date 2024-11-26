@@ -45,11 +45,10 @@ Simply open the `index.html` file in your preferred browser to view the website.
 
 ---
 
-## 📸 **Screenshots**
-Soon
+
 
 ### 🏪 **Homepage**  
-![Homepage](https://via.placeholder.com/800x400?text=Add+Screenshots+Here)
+![Homepage](![project2](https://github.com/user-attachments/assets/a057d0e7-ea5c-4d91-95c3-fbcac71a2f41)
 
 ---
 
